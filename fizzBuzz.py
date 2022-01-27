@@ -17,7 +17,7 @@ class Solution:
                 ans.append("FizzBuzz")
             elif divisible_by_3:
                 # Divides by 3, add Fizz
-                ans.append("Fizz ")
+                ans.append("Fizz")
             elif divisible_by_5:
                 # Divides by 5, add Buzz
                 ans.append("Buzz")
